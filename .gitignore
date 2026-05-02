@@ -1,0 +1,7 @@
+mlruns/
+mlartifacts/
+data/*.csv
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
