@@ -1,7 +1,11 @@
 mlruns/
 mlartifacts/
+mlflow.db
 data/*.csv
 .venv/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+predictions.csv
+feature_importances.csv
+
