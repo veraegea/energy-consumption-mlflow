@@ -44,6 +44,10 @@ El objetivo del proyecto es:
 ##  Cómo ejecutar
 
 ```bash
+# 0. Clonar repositorio
+git clone "link repositorio"
+cd energy-consumption-mlfow
+
 # 1. Crear entorno virtual
 python -m venv .venv
 .venv\Scripts\activate   # Windows
